@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200&display=swap');
+
+.special
+{
+    position: relative;
+    padding: 10px 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #0B1441;
+    margin: 40px;
+    transition: 1s;
+    text-decoration: none;
+    overflow: hidden;
+
+}
+.special:hover
+{
+    background: var(--clr);
+    box-shadow: 0 0 10px var(--clr),
+    0 0 30px var(--clr),
+    0 0 60px var(--clr),
+    0 0 100px var(--clr);
+}
+ .special::before
+{
+    content:'';
+    position: absolute;
+    width: 300px;
+    height: 600%;
+    background-color: var(--clr);
+    transition: 1s;
+    animation: animate 2.5s linear infinite;
+    animation-delay: calc(0.33s * var(--i));
+}
+
+.special:hover::before
+{
+    width: 120%;
+}
+@keyframes animate
+{
+    0%
+    {
+        transform: rotate(0deg);
+        filter: hue-rotate(0deg);
+    }
+    100%
+    {
+        transform: rotate(360deg);
+        filter: hue-rotate(360deg);
+    }
+}
+.special::after
+{
+    content: '';
+    position: absolute;
+    inset: 100px;
+    background: #0B1441;
+    transition: 0.5s;
+}
+.special:hover::after
+{
+    background: var(--clr);
+}
+.special span
+{
+    position: relative;
+    z-index: 1;
+    font-family:'Manrope';
+    font-size: 18px;
+    color: #fff;
+    opacity: 10;
+    letter-spacing: 4px;
+    transition: 0.5s;
+}
+.special:hover span
+{
+    opacity: 1;
+} 
