@@ -8,9 +8,8 @@ const Possibility = () => (
       <img src={possibilityImage} alt="possibility" />
     </div>
     <div className="gpt3__possibility-content">
-      <h4>Request Early Access to Get Started</h4>
       <h1 className="gradient__text">The possibilities are <br /> beyond your imagination</h1>
-      <p>Yet bed any for travelling assistance indulgence unpleasing. Not thoughts all exercise blessing. Indulgence way everything joy alteration boisterous the attachment. Party we years to order allow asked of.</p>
+      <p>Ouroboros starts with the business challenge, opportunity, or the outcome you want to achieve. We research the market and mine our collective experience to advise and guide you on the right technology and processes to solve even the most complex challenges.</p>
     </div>
   </div>
 );

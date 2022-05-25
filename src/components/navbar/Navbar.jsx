@@ -25,10 +25,8 @@ const Navbar = () => {
         </div>
             </div>
             <div className="gpt3__navbar-sign">
-          <title>Contact Us</title>
-          <link rel="stylesheet" type="text/css" href="Special.css" />
-          <div className="special" href="#" style={{"--clr": "#e5f403","--i":"0"}}><span>Contact Us</span></div>
-        </div> 
+        <button type="button">Contact Us</button>
+      </div>
       <div className="gpt3__navbar-menu">
         {toggleMenu
           ? <RiCloseLine color="#fff" size={27} onClick={() => setToggleMenu(false)} />
@@ -41,6 +39,9 @@ const Navbar = () => {
             <p><a href="#possibility">Open AI</a></p>
             <p><a href="#features">Technology</a></p>
             <p><a href="#blog">Blog</a></p>
+          </div>
+          <div className="gpt3__navbar-menu_container-links-sign">
+            <button type="button">Contact Us</button>
           </div>
         </div>
         )}

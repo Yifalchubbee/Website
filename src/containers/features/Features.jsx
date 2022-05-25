@@ -4,27 +4,27 @@ import './features.css';
 
 const featuresData = [
   {
-    title: 'Improving end distrusts instantly',
-    text: 'From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded.',
+    title: 'Custom Software Development',
+    text: 'Get full-cycle development for your online or mobile products, as well as specific services for backend and frontend operations including API, Database, and UX.',
   },
   {
-    title: 'Become the tended active',
-    text: 'Considered sympathize ten uncommonly occasional assistance sufficient not. Letter of on become he tended active enable to.',
+    title: 'Sofware Testing',
+    text: 'Get new features implemented without delays! Improve the delivery of personalized products, using a team of manual and automation testers that can be scaled up and down to your needs. Performance testing, cybersecurity testing, and more.',
   },
   {
-    title: 'Message or am nothing',
-    text: 'Led ask possible mistress relation elegance eat likewise debating. By message or am nothing amongst chiefly address.',
+    title: 'Mobile and App Development',
+    text: 'Dating apps, mobile wallets, cloud data storage, credit platform, banking apps, payment services, audio streaming services and apps for cleaning businesses and crypto-wallets, we can develop mobile apps for all mobile app platform.',
   },
   {
-    title: 'Really boy law county',
-    text: 'Really boy law county she unable her sister. Feet you off its like like six. Among sex are leave law built now. In built table in an rapid blush..',
+    title: 'Cloud Migration',
+    text: 'Get redundant cloud infrastructure to help your business develop smoothly, save money, and apply modern cybersecurity measures. You may create a high-level strategy or migrate to Microsoft Azure, Amazon Web Services, and Google Cloud.',
   },
 ];
 
 const Features = () => (
   <div className="gpt3__features section__padding" id="features">
     <div className="gpt3__features-heading">
-      <h1 className="gradient__text">The Future is now and you just need to realize it. Step into future today & make it happen.</h1>
+      <h1 className="gradient__text">We are here to help you step into future today & make it happen.</h1>
       <p>Technologies We Use</p>
     </div>
     <div className="gpt3__features-container">
