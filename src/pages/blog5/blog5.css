@@ -1,0 +1,67 @@
+.blog5 {
+    flex: 9;
+    padding: 6rem;
+  }
+  
+  .blog5tWrapper {
+    padding: 20px;
+    padding-right: 0;
+  }
+  
+  .blog5Img {
+    width: 100%;
+    height: 300px;
+    border-radius: 5px;
+    object-fit: cover;
+  }
+  
+  .blog5Title {
+    text-align: center;
+    margin: 10px;
+    font-size: 28px;
+    font-family: "Lora", sans-serif;
+    color: #fff;
+    background: linear-gradient(89.97deg, #AE67FA 1.84%, #F49867 102.67%);
+  }
+  
+  .blog5Edit {
+    float: right;
+    font-size: 16px;
+  }
+  
+  .blog5Icon {
+    margin-left: 10px;
+    cursor: pointer;
+  }
+  
+  .blog5Icon:first-child {
+    color: teal;
+  }
+  .blog5Icon:last-child {
+    color: tomato;
+  }
+  
+  .blog5Info {
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 16px;
+    color: #be9656;
+    font-family: "Varela Round", Arial, Helvetica, sans-serif;
+  }
+  
+  .blog5Author{
+    margin-left: 5px;
+  }
+  
+  .blog5Desc {
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    line-height: 25px;
+  }
+  
+  .blog5Desc::first-letter {
+    margin-left: 20px;
+    font-size: 30px;
+    font-weight: 600;
+  }
