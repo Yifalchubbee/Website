@@ -8,7 +8,7 @@ const Footer = () => (
       <h1 className="gradient__text">We Help Humans Solve Hard Problems</h1>
     </div>
     <div className="gpt3__footer-btn">
-      <p>Request Early Access</p>
+      <p>Get In Touch With Us</p>
     </div>
     <div className="gpt3__footer-copyright">
       <p>@2022 Ouroboros Enterprise. All rights reserved.</p>
