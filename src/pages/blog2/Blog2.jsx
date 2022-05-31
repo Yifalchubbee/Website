@@ -24,7 +24,7 @@ export default function Blog2() {
               <b className="blog2Author">
               </b>
             </span>
-            <span>1 day ago</span>
+            <span>94 days ago</span>
           </div>
           <p className="blog2Desc">
             Opinions expressed by Entrepreneur contributors are their own.

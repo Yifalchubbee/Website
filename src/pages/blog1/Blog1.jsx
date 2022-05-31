@@ -12,7 +12,7 @@ export default function Blog1() {
             alt=""
           />
           <h1 className="blog1Title">
-          7 Tips For Aspiring Young Entrepreneurs
+          AI: The robots are coming
             <div className="blog1Edit">
               <i className="blog1Icon far fa-edit"></i>
               <i className="blog1Icon far fa-trash-alt"></i>
@@ -20,100 +20,89 @@ export default function Blog1() {
           </h1>
           <div className="blog1Info">
             <span>
-              Author: THE All Myght Rakon
+              Author: Graz University
               <b className="blog1Author">
               </b>
             </span>
-            <span>1 day ago</span>
+            <span>65 days ago</span>
           </div>
           <p className="blog1Desc">
-            Patrick Scherzinger is the Managing Shareholder of Scherzinger Holding GmbH and considered among the youngest entrepreneurs in Germany.
+          The advance of AI and its increasing capacity to perform work with a creativity indistinguishable from humans is fuelling more discussion and some concern.
             <br />
             <br />
-            The life of an entrepreneur is an enticing prospect for many. If you succeed, you get to choose the work you love, set your own hours and reap the full value of what you sow — plus, you’ll never be forced into doing something you don’t want to just for the sake of not being fired.
+            At the Venice Biennale running now until July, visitors can see an “ultra-realistic humanoid robot artist,” called Ai-Da. She’s been trotted out for a few years now and this time is showcasing paintings performed by her AI and made by her robotic hand. 
             <br />
             <br />
-            Having said this, lots of young, aspiring entrepreneurs fail when taking their first steps into the world of business, which holds back many from making that first leap.
+            Its British inventors have moved beyond the question ‘whether or not robots can make art?’ to exploring ‘now that robots can make art, do we really want them to?’ 
             <br />
             <br />
-            With this in mind, here are seven tips to maximize your chance of entrepreneurial success.
+            Soon, AI algorithms “are going to know you better than you do,” warns Ai-Da’s co-inventor Aidan Meller in The Guardian. “We are entering a world not understanding which is human and which is machine.” 
             <br />
             <br />
-            1. Choose a project you’re passionate about.
+            Going further, he implies that society could be edging away from humanism, into an era where machines and algorithms influence our behaviour to a point where our “agency” isn’t just our own. 
             <br />
             <br />
-            Going into business for yourself isn’t something to be taken lightly. In the beginning, you’ll probably be working a lot harder than you would in a traditional employment position — and you need something more than the prospect of money and the novelty of being a CEO to get you through it.
+            “It is starting to get outsourced to the decisions and suggestions of algorithms, and complete human autonomy starts to look less robust. Ai-Da creates art, because art no longer has to be restrained by the requirement of human agency alone.” 
             <br />
             <br />
-            Steve Jobs notably said, “Work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work — and the only way to do great work is to love what you do.”
+            Art or beauty as they say is in the eye of the beholder so if a machine creates art and we accept that then it is art. 
             <br />
             <br />
-            This is why choosing a venture you believe in — and are passionate about — is crucial for every entrepreneur taking their first step into the world of business.
+            This is what researchers Leah Henrickson and Simone Natale have termed the “Lovelace Effect“ (named after the 19th century female mathematician who essentially programmed Charles Babbage’s first computer for him and whose Christian name is not coincidentally, Ada). 
             <br />
             <br />
-            2. Surround yourself with the right people
+            The Lovelace effect shifts the focus from the technological capabilities of machines to the reactions and perceptions of those machines by humans. 
             <br />
             <br />
-            From the team you assemble to comprise your start-up to the company you keep in your personal life, your success is hugely influenced by the people you surround yourself with.
+            “How, where and why we interact with a technology; how we talk about that technology; and where we feel that technology fits in our personal and cultural contexts,” all has a baring on whether what we see or hear is called art, Natale and Henrickson say. 
             <br />
             <br />
-            As motivational speaker and entrepreneur Jim Rohn famously claimed, “You are the average of the five people you spend the most time with.”
+            AI in the workplace
             <br />
             <br />
-            However, we’re influenced by many more people than just these five, so prioritizing networking with experts in your chosen field or industry — and, even better, finding a mentor who has already succeeded in a similar endeavor — is a great way to learn more, stay motivated and improve your chances of success.
+            That all our jobs are in danger of being replaced by AI is presented as a certainty by AI expert Kai-Fu Lee. In his new book AI 2041  he predicts that all blue-collar and all white-collar work jobs will be phased out of existence as AI proves it can do those jobs better – and cheaper.  
             <br />
             <br />
-            3. Know your customer inside and out.
+            Moreover, any craft-related jobs that require dexterity and a high level of hand-eye coordination will also eventually been taken over by AI by 2041. That would include many areas of post production such as VFX, animation and assembly edits. Even programme direction of as-live sports matches could be done by a bot. 
             <br />
             <br />
-            When you’re first developing your idea as a new entrepreneur, the best thing you can do to set yourself up for success is to know your target demographic inside and out. A common mistake that inexperienced entrepreneurs make is trying to appeal to everyone, with the result being that they often appeal to no one.
+            “Engineering is largely cerebral and somewhat creative work that requires analytical skills and deep understanding of problems,” Lee told IEEE Spectrum. “And those are generally hard for AI. But if you’re a software engineer and most of your job is looking for pieces of code and copy-pasting them together—those jobs are in danger.”  
             <br />
             <br />
-            So, young entrepreneurs should figure out who exactly their product/service/brand is targeting — a.k.a. whose problem the product or service is solving — and research them thoroughly until you know them like the back of your hand. That way, you can appeal directly to them with both your product and marketing strategy.
+            In order to adjust to the digital AI era we are urged to understand the basic tenets of coding, programming languages, scripts, algorithms, compiling, and machine language by US academics Paul Leonardi and Tsedal Neeley. 
             <br />
             <br />
-            4. Be financially prepared.
+            Developing a digital mind 
             <br />
             <br />
-            Often, younger entrepreneurs don’t have the capital saved that older entrepreneurs do as a result of working and saving over many years. However, this doesn’t have to prevent you from succeeding.
+            In their new book The Digital Mindset: What It Really Takes to Thrive in the Age of Data, Algorithms, and AI, they argue that lacking this basic digital awareness would make it difficult to participate in the digital economy. 
             <br />
             <br />
-            Of course, saving up before you take the plunge is a great idea — especially having a couple of months' expenses to fall back on — but a third of small businesses in the U.S. begins with a reserve of less than $5,000.
+            Critically this mindset requires a shift in how we think about our relationship to machines. We shouldn’t anthropomorphise AIs but treat them exactly as what they are – machines which are built with human input and embedded with human bias. 
             <br />
             <br />
-            The key is to have plans in place to make your money go as far as possible. Keep your overheads as low as you can — don’t bother renting an office space if you can keep operations based remotely/at home in the beginning — and come up with a plan to acquire any extra funding you need.
+            “Even as they become more ‘humanish’, we need to think about them as machines,” they write. 
             <br />
             <br />
-            5. Have a vision and set goals.
+            They point out that advances in AI are moving our interaction with digital tools to more natural-feeling and human-like interactions. For instance, conversational user interfaces like Hello Alexa or OK Google give us the ability to act with digital tools through writing or talking that’s much more the way we interact with other people.  
             <br />
             <br />
-            Having an idea is great, but you need to know where you envision your company being in one, five and 10 years, and set your goals accordingly.
+            The problem is that these AIs aren’t quite up to human mental agility or mimicry yet.  
             <br />
             <br />
-            This way, every single day, you can make sure that what you’re working on is aligned — and getting you closer — to your goals.
+            “We are still some ways away from effective human-like interaction with the technology,” say the professors. 
             <br />
             <br />
-            6. Embark on a lifetime of learning.
+            But it seems inevitable that AI will catch-up, not least because we’re feeding it on the neural networks with which our own brains work. 
             <br />
             <br />
-            In order to succeed as a new entrepreneur, you should learn all you can: not just when you start on your entrepreneurial journey, but constantly since your industry will constantly be changing.
+            Does that mean AI ultimately attains consciousness? 
             <br />
             <br />
-            In addition to reading and listening to content about your field, products similar to yours and even new marketing strategies, reading case studies about those who’ve come before you — and who’ve succeeded in the area that you want to succeed in — can help you to replicate their success and avoid their mistakes.
+            Graz University’s Wolfgang Maass has hinted at such, saying future neuromorphic setups may one day begin to explore how the multitude of neuronal firing patterns work together to produce consciousness. 
             <br />
             <br />
-            7. Get started.
-            <br />
-            <br />
-            According to the majority of participants in the Small Business Trends survey — and countless leaders in the entrepreneurship sphere — the best way to learn about entrepreneurship is simply: Start a business.
-            <br />
-            <br />
-            You can do all the reading, preparation and planning in the world, but the only way you’re going to learn how to succeed in entrepreneurship is to take the plunge and begin your entrepreneurial journey.
-            <br />
-            <br />
-            Forbes Business Council is the foremost growth and networking organization for business owners and leaders. Do I qualify?
-            <br />
-            <br />
+            
           </p>
         </div>
       </div>
