@@ -16,8 +16,8 @@ const Blog = () => {
         <div className="gpt3__blog-container_groupA" onClick={() => navigate('/blog1')}>
           <Article 
           imgUrl={blog01} 
-          date="Sep 29, 2021" 
-          text="7 Tips For Aspiring Young Entrepreneurs" />
+          date="March 27, 2022" 
+          text="AI: The robots are coming" />
         </div>
         <div className='blog-containerB'>
           <div className="gpt3__blog-container_groupB" onClick={() => navigate('/blog2')}>
@@ -29,20 +29,20 @@ const Blog = () => {
           <div className="gpt3__blog-container_groupC" onClick={() => navigate('/blog3')}>
             <Article 
             imgUrl={blog03} 
-            date="Sep 26, 2021" 
-            text="Ouroboros Open AI is the future. Let us exlore how it is?" />
+            date="April 3, 2022" 
+            text="Data is the strongest currency in marketing and there may be too much of it" />
           </div> 
           <div className="gpt3__blog-container_groupD" onClick={() => navigate('/blog4')}>
             <Article 
             imgUrl={blog04} 
-            date="Sep 26, 2021" 
-            text="Ouroboros Open AI is the future. Let us exlore how it is?" />
+            date="May 26, 2022" 
+            text="How to Select the Right Custom Software development" />
           </div>
           <div className="gpt3__blog-container_groupE" onClick={() => navigate('/blog5')}> 
             <Article 
             imgUrl={blog05} 
-            date="Sep 26, 2021" 
-            text="Ouroboros Open AI is the future. Let us exlore how it is?" />
+            date="May 14, 2022" 
+            text="5 Functions Your Small Business Should Consider Outsourcing" />
           </div>  
         </div>
       </div>
