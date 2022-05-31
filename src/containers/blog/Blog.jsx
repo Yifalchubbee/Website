@@ -23,8 +23,8 @@ const Blog = () => {
           <div className="gpt3__blog-container_groupB" onClick={() => navigate('/blog2')}>
             <Article 
             imgUrl={blog02} 
-            date="Sep 26, 2021" 
-            text="Ouroboros Open AI is the future. Let us exlore how it is?" />
+            date="Feb 26, 2022" 
+            text="Top 7 Ways to Cultivate Creative Excellence with AI" />
           </div> 
           <div className="gpt3__blog-container_groupC" onClick={() => navigate('/blog3')}>
             <Article 
