@@ -35,9 +35,9 @@
 }
 
 .gpt3__footer-btn p {
-    font-size: 18px;
+    font-size: 28px;
     font-family: var(--font-family);
-    line-height: 21px;
+    line-height: 28px;
     color: #fff;
     word-spacing: 2px;
 }
@@ -75,7 +75,7 @@
     }
 
     .gpt3__footer-btn p {
-        font-size: 14px;
+        font-size: 28px;
         line-height: 20px;
     }
 }
