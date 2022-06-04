@@ -12,7 +12,7 @@ const WhatGPT3 = () => (
       <p>Explore our Library</p>
     </div>
     <div className="gpt3__whatgpt3-container">
-      <Feature title="Healtcare" text="Expand your reach – Innovate to increase revenue, lower the costs of your operations, and improve patient experience" />
+      <Feature title="Healthcare" text="Expand your reach – Innovate to increase revenue, lower the costs of your operations, and improve patient experience" />
       <Feature title="Finance" text="We know every industry is changing, but it can feel like change is happening overnight. With our consulting, you can take advantage of the opportunities in the data-driven economy." />
       <Feature title="Hospitality" text="Apps are changing how people interact with companies. Data insight is transforming how customers experience customer service. Customers expect a personalized and tailored experience on their schedule." />
     </div>
