@@ -15,19 +15,27 @@ const Navbar = () => {
           <link rel="stylesheet" href="logo.css" />
           <div className="loader" />
         </div>
-        <div className="gpt3__navbar-links_container">
+        <div className="gpt3__navbar-links_home">
           <p>
             <a href="#home">Home</a>
           </p>
+          </div>
+          <div className="gpt3__navbar-links_wio">
           <p>
             <a href="#wgpt3">Who is Ouroboros</a>
           </p>
+          </div>
+          <div className="gpt3__navbar-links_psb">
           <p>
             <a href="#possibility">Possibilities</a>
           </p>
+          </div>
+          <div className="gpt3__navbar-links_tch">
           <p>
             <a href="#features">Technology</a>
           </p>
+          </div>
+          <div className="gpt3__navbar-links_blg">
           <p>
             <a href="#blog">Blog</a>
           </p>
